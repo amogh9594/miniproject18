@@ -1,0 +1,16 @@
+1,ABC,Sci-Fi|Horror,2007
+2,PQR,Drama|Romantic,1999
+3,LMN,Drama|Horror,2002
+4,XYZ,Drama|Sci-Fi|Horror,2007
+5,GHT,Horror|Action,1999
+6,TRF,Sci-Fi,2007
+7,REF,Drama|Comedy,1999
+8,POU,Animated,2007
+9,YTR,Action|Thriller,2002
+10,RJK,Crime|Thriller|Adventure,2002
+11,MBA,Drama|Romantic,2002
+12,CBS,Drama|Thriller,2007
+13,NUN,Horror,2018
+14,conjuring,Horror,2013
+15,conjuring2,Horror,2016
+16,BOYS,Drama|Comedy,2017
